@@ -1,0 +1,17 @@
+{
+  "name": "Logic Simulator",
+  "short_name": "logicsim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16171d",
+  "theme_color": "#16171d",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
